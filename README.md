@@ -114,7 +114,7 @@ math.html
 </head>
 <body>
     <fieldset>
-        <legend>SEKAR M</legend>
+        <legend> Thamizh M</legend>
         <h2>Power Calculator</h2>
         <form method="POST">
             {% csrf_token %}
@@ -170,7 +170,8 @@ urlpatterns = [
 
 # HOMEPAGE:
 
-![alt text](<Screenshot 2025-10-05 230907.png>)
+<img width="1749" height="746" alt="exp5" src="https://github.com/user-attachments/assets/67ad6a97-78f9-4ebd-95f7-f3a0415dd4e1" />
+
 
 # RESULT:
 The program for performing server side processing is completed successfully.
